@@ -21,6 +21,10 @@ public class trabajador {
         return idTrabajo;
     }
 
+    public string getApellido(){
+        return apellido;
+    }
+
     public  double pagar(){
             return 0.0;
     }
